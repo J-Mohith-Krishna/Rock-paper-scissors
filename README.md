@@ -1,6 +1,6 @@
 # Rock-paper-scissors
 ## Description-
-The script demonstrates a basic interaction between the user and the computer in a Rock, Paper, Scissors game, with outcomes determined by the traditional rules of the game.
+The python file given in this repo demonstrates a basic interaction between the user and the computer in a Rock, Paper, Scissors game, with outcomes determined by the traditional rules of the game.
 ## Explanation-
    -User Input:
 user_action = input("Enter a choice (rock, paper, scissors): "): Prompts the user to enter their choice (rock, paper, or scissors) and stores it in the user_action variable.
